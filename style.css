@@ -1,4 +1,4 @@
-title {
+head {
   
   color : #0EE;
   
@@ -16,3 +16,8 @@ p {
      background-color: #000;
 }
   
+img {
+	padding:25px;
+	border: 25px solid white;
+	margin: 50px;
+}
